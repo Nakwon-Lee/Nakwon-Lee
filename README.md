@@ -1,5 +1,5 @@
 Nakwon Lee
 
-Ph.D. student in KAIST, South Korea
+Ph.D in computer science.
 
-I'm interested in software model checking, software reliability engineering.
+I'm interested in software testing, software model checking, and software reliability engineering.
